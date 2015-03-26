@@ -5,7 +5,7 @@
         <em:unpack>true</em:unpack>
         <em:id>gtk_paper@devbevariour.cf</em:id>
         <em:name>GTK - Paper Compatibility</em:name>
-        <em:version>1.0</em:version>
+        <em:version>1.0.1</em:version>
         <em:description>This addon provides compatibility with the Paper GTK theme.</em:description>
         <em:creator>Sergey Kislyakov</em:creator>
         <em:homepageURL>https://github.com/Defman21/komodo-gtk-paper</em:homepageURL>
