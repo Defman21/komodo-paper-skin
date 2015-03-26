@@ -82,3 +82,20 @@ toolbox #main-toolboxrow toolbar > toolbaritem > toolbarbutton
     
     
 }
+
+
+#fonts_tab, #colors_tab, #common_tab, #specific_tab, #indicator_tab {
+    label {
+        color: #202020 !important;        
+    }
+    
+    &:hover {
+        background: #f2f2f2 !important;
+        border-right: none !important;
+    }
+    
+    &[selected] {
+        border-right: none !important;
+        background: #f1f1f1 !important;
+    }
+}
